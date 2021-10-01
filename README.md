@@ -8,7 +8,7 @@
 - 💬 Ask me about javascript
 - 😄 Fun fact: `Object.prototype.toString.call() === '[object Undefined]'` 😱
 
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook)](mailto:alexkim6@outlook.com) [![Slack](https://img.shields.io/badge/Slack-4a154b?&logo=slack)](https://frontendmentor.slack.com/team/U010MQL447M) [![FEM profile](https://img.shields.io/badge/frontendmentor.io-3e54a3?&logo=frontendmentor)](https://www.frontendmentor.io/profile/Alex-K1m)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook)](mailto:alexkim6@outlook.com) [![Slack](https://img.shields.io/badge/Slack-4a154b?&logo=slack)](https://frontendmentor.slack.com/team/U010MQL447M) [![FEM profile](https://img.shields.io/badge/frontendmentor.io-3e54a3?&logo=frontendmentor)](https://www.frontendmentor.io/profile/alex-kim-dev)
 
 ### Things I work with
 

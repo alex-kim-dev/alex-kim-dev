@@ -2,8 +2,8 @@
 
 ### I'm Alex, a junior frontend developer
 
-- 📖 I’m currently learning data structures
-- 📚 I want to learn: typescript, storybook
+- 📖 I’m currently learning typescript
+- 📚 I want to learn storybook
 - 🧑‍💻 I’m looking to collaborate on some of the frontendmentor.io challenges
 - 💬 Ask me about javascript
 - 😄 Fun fact: `Object.prototype.toString.call() === '[object Undefined]'` 😱

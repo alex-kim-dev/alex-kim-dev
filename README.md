@@ -28,4 +28,4 @@
 
 ### Most used langauges
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kim-dev&layout=compact&bg_color=D0B64D&hide_title=true&text_color=3d3b35&hide_border=true&border_radius=6&card_width=278)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kim-dev&layout=compact&bg_color=D0B64D&hide_title=true&text_color=3d3b35&hide_border=true&border_radius=6&card_width=278&langs_count=6)

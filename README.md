@@ -2,7 +2,7 @@
 
 ### I'm Alex, a junior frontend developer
 
-- 🧑‍💻 I’m currently contributing to [Excalidraw](https://github.com/excalidraw/excalidraw)
+- 🧑‍💻 I’m currently making my first meaningful contributions to real projects
 - 📚 I want to get familiar with storybook, e2e testing
 - 🤝 I’m looking to collaborate on some of the frontendmentor.io challenges
 - 💬 Ask me about javascript

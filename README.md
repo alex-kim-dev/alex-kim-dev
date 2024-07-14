@@ -1,33 +1,25 @@
-## Hi there 👋
+### Hi there 👋 I'm Alex, a jr front-end developer
 
-### I'm Alex, a junior frontend developer
+![Typescript badge](https://img.shields.io/badge/Typescript-333740?style=for-the-badge&logo=typescript&logoSize=auto)
+![React badge](https://img.shields.io/badge/React-333740?style=for-the-badge&logo=react&logoSize=auto)
+![CSS badge](https://img.shields.io/badge/css-333740?style=for-the-badge&logo=css3&logoSize=auto)
 
-- 🧑‍💻 I’m making my first meaningful contributions to real projects
-- 📖 I'm currently reading ["How to design programs"](https://htdp.org/)
-- 🤝 I’m looking to collaborate on some of the frontendmentor.io challenges
-- 💬 Ask me about javascript
-- 😄 Fun fact: `Object.prototype.toString.call() === '[object Undefined]'` 😱
+I am open to collaborate on front-end / full-stack typescript projects - open-source web apps, pet projects, Frontend Mentor challenges.
 
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook)](mailto:alexkim6@outlook.com) [![FEM profile](https://img.shields.io/badge/frontendmentor.io-3e54a3?&logo=frontendmentor)](https://www.frontendmentor.io/profile/alex-kim-dev)
+[![Email link](https://img.shields.io/badge/Email-333740?style=for-the-badge&logoSize=auto)](mailto:alexkim6@outlook.com)
+[![Discord link](https://img.shields.io/badge/Discord-333740?style=for-the-badge&logo=discord&logoSize=auto)](https://discordapp.com/users/1004672779783774218)
 
-### What I work with
+#### Some of my work
 
-![oop](https://img.shields.io/badge/OOP-333740?)
-![fp](https://img.shields.io/badge/FP-333740?)
-![javascript](https://img.shields.io/badge/Javascript-333740?&logo=javascript&logoColor=e4e8ec)
-![typescript](https://img.shields.io/badge/Typescript-333740?&logo=typescript&logoColor=e4e8ec)
-![html](https://img.shields.io/badge/html-333740?&logo=html5&logoColor=e4e8ec)
-![css](https://img.shields.io/badge/css-333740?&logo=css3&logoColor=e4e8ec)
-![pug](https://img.shields.io/badge/pug-333740?&logo=pug&logoColor=e4e8ec)
-![sass](https://img.shields.io/badge/sass-333740?&logo=sass&logoColor=e4e8ec)
-![react](https://img.shields.io/badge/react-333740?&logo=react&logoColor=e4e8ec)
-![redux](https://img.shields.io/badge/redux-333740?&logo=redux&logoColor=e4e8ec)
-![testing-library](https://img.shields.io/badge/testing_library-333740?&logo=testing-library&logoColor=e4e8ec)
-![webpack](https://img.shields.io/badge/webpack-333740?&logo=webpack&logoColor=e4e8ec)
-![vite](https://img.shields.io/badge/vite-333740?&logo=vite&logoColor=e4e8ec)
-![github-actions](https://img.shields.io/badge/github_actions-333740?&logo=github-actions&logoColor=e4e8ec)
-![linters](https://img.shields.io/badge/linters!-333740?&logo=eslint&logoColor=e4e8ec)
+<!-- https://github.com/alex-kim-dev/collectify -->
+<!-- https://github.com/alex-kim-dev/github-jobs -->
 
-### Most used languages
+- [Auth app](https://github.com/alex-kim-dev/auth-app) - a full-stack web app with authentication made from scratch and user management
+- [Fake user data](https://github.com/alex-kim-dev/fake-user-data) - a client-server web app that generates user data with human-like mistakes based on the given seed
+- [Todo app](https://github.com/alex-kim-dev/todo-app) - yet another todo app
+- [Frontend mentor UI challenges](https://www.frontendmentor.io/profile/alex-kim-dev/solutions) - a collection of UI challenges based on figma designs
+- [Algorithms & data structures](https://github.com/alex-kim-dev/algorithms-and-data-structures) - my implementations of some data structures and algorithms
+- [Vite React template](https://github.com/alex-kim-dev/vite-react-template) - Vite + React + Typescript template with testing, linters and CI
+- [Contributions to Excalidraw](https://github.com/excalidraw/excalidraw/issues?q=author%3Aalex-kim-dev) - some issues & PRs related to resizing elements on a canvas
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kim-dev&layout=compact&bg_color=22272E&hide_title=true&text_color=e4e8ec&hide_border=true&border_radius=6&card_width=278&langs_count=6)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kim-dev&layout=compact&bg_color=22272E&text_color=e4e8ec&hide_border=true&border_radius=0&card_width=278&langs_count=7)

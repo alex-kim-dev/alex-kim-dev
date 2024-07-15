@@ -14,12 +14,12 @@ I am open to collaborate on front-end / full-stack typescript projects - open-so
 <!-- https://github.com/alex-kim-dev/collectify -->
 <!-- https://github.com/alex-kim-dev/github-jobs -->
 
-- [Auth app](https://github.com/alex-kim-dev/auth-app) - a full-stack web app with authentication made from scratch and user management
-- [Fake user data](https://github.com/alex-kim-dev/fake-user-data) - a client-server web app that generates user data with human-like mistakes based on the given seed
+- [Auth app](https://github.com/alex-kim-dev/auth-app) - a full-stack web app with token-based authentication and user management
+- [Fake user data](https://github.com/alex-kim-dev/fake-user-data) - a client-server web app that generates user data with human-like mistakes based on a given seed
 - [Todo app](https://github.com/alex-kim-dev/todo-app) - yet another todo app
-- [Frontend mentor UI challenges](https://www.frontendmentor.io/profile/alex-kim-dev/solutions) - a collection of UI challenges based on figma designs
+- [Frontend Mentor](https://www.frontendmentor.io/profile/alex-kim-dev/solutions) - a collection of solutions to frontendmentor.io UI challenges
 - [Algorithms & data structures](https://github.com/alex-kim-dev/algorithms-and-data-structures) - my implementations of some data structures and algorithms
 - [Vite React template](https://github.com/alex-kim-dev/vite-react-template) - Vite + React + Typescript template with testing, linters and CI
-- [Contributions to Excalidraw](https://github.com/excalidraw/excalidraw/issues?q=author%3Aalex-kim-dev) - some issues & PRs related to resizing elements on a canvas
+- [Contributions to Excalidraw](https://github.com/excalidraw/excalidraw/issues?q=author%3Aalex-kim-dev) - issues & PRs related to resizing elements in a whiteboard app
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-kim-dev&layout=compact&bg_color=22272E&text_color=e4e8ec&hide_border=true&border_radius=0&card_width=278&langs_count=7)
